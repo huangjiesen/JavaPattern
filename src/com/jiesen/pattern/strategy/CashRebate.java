@@ -4,7 +4,7 @@ package com.jiesen.pattern.strategy;
  * 打折收费子类
  * Created by sen on 16-5-24.
  */
-public class CashRebate extends Cash {
+public class CashRebate extends CashSupper {
     private double moneyRebate=1;
 
     /**

@@ -4,7 +4,7 @@ package com.jiesen.pattern.strategy;
  * 反复收费子类
  * Created by sen on 16-5-24.
  */
-public class CashReturn extends Cash {
+public class CashReturn extends CashSupper {
     private double moneyCondition;
     private double moneyReturn;
     /**
