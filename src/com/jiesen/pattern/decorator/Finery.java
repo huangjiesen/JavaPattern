@@ -6,9 +6,9 @@ package com.jiesen.pattern.decorator;
 public class Finery extends Person {
     private Person person;
 
-    public Finery() {
-        super();
-    }
+//    public Finery() {
+//        super();
+//    }
     public Finery(Person person) {
         this.person = person;
     }
